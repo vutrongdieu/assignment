@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #fff;
+    background-color: white;
     border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
@@ -100,7 +100,7 @@ h5, h6 {
 }
 
 #body {
-    background-color: #efeeef;
+    background-color: white;
     clear: both;
     padding-bottom: 35px;
 }
