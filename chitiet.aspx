@@ -2,7 +2,7 @@
 
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>Product</h3>
+    <h3>Chi tiết</h3>
     <asp:DetailsView ID="DetailsView1" runat="server" Height="50px" Width="125px" AutoGenerateRows="False" DataKeyNames="id_chi_tiet" DataSourceID="SqlDataSource1" AllowPaging="True">
         <Fields>
             <asp:BoundField DataField="id_chi_tiet" HeaderText="id_chi_tiet" ReadOnly="True" SortExpression="id_chi_tiet" />
