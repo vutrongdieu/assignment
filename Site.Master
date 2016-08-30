@@ -61,11 +61,11 @@
                 </section>
                 <nav>
                     <ul id="menu">
-                        <li><a runat="server" href="~/index.aspx">Home</a></li>
-                        <li><a runat="server" href="~/category.aspx">Category</a></li>
+                        <li><a href="~/index.aspx">Trang chủ</a></li>
+                        <li><a href="~/category.aspx">Danh mục sản phẩm</a></li>
                         <li><a runat="server" href="~/hoadon.aspx">Hóa đơn</a></li>
                         <li><a runat="server" href="~/chitiet.aspx">Chi tiết</a></li>
-                        <li><a runat="server" href="~/Contact.aspx">Contact</a></li>
+                        <li><a href="~/Contact.aspx">Li</a>ên hệ</li>
                     </ul>
                 </nav>
             </div>
